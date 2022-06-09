@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-rwade01/rwade01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+rwade01/gcp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
